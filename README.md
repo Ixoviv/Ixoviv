@@ -1,4 +1,4 @@
-👋 Hello!
+# 👋 Hello!
 
 - 🌱 I’m currently learning Pyton
 - 📫 Discord: Vivoxi#0590
