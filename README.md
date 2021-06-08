@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-- 🌱 I’m currently learning **Pyton**
+- 🌱 I’m currently learning **Python**
 - 📫 Discord: **Vivoxi#0590**
 
 <!---
